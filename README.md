@@ -19,3 +19,7 @@ menu:
 ./chishenme.rb
   -m (--menu) : Specify a menu. Default is ~/.menu.yml
 ```
+
+# TODOs
+
+- [ ] 历史记录
