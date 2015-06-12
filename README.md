@@ -2,7 +2,7 @@
 
 # Prepare
 
-用yml写好一个饭馆列表，格式如下：
+列一个饭馆列表（`~/.menu.yml`），格式如下：
 
 ```yaml
 menu:
